@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">weatherapplication</string>
+    <string name="action_settings">Nustatymai</string>
+    <string name="action_refresh">Atnaujinti</string>
+    <string name="description">Aprašymas</string>
+    <string name="max_temp">Maks_temperatūra</string>
+    <string name="min_temp">Min_tempperatūra</string>
+    <string name="feelslike_temp">Jutiminė temperatūra</string>
+    <string name="wind_speed">Vėjo greitis</string>
+    <string name="wind_d">Vėjo kryptis</string>
+
+	<!--settings-->
+	<string name="city_cat_title">Miesto pasirinkimas</string>
+	<string name="city_cat_key">City selection key</string>
+	
+	<string name="unit_cat_title">Matavimo vienetų pasirinkimas</string>
+	<string name="unit_cat_key">Measurement Units selection key</string>
+	
+	<string name="language_cat_title">Kalbos pasirinkimas</string>
+	<string name="language_cat_key">Language selection key</string>
+	
+	<string name="loc_cat_title">Vietos pasirinkimas</string>
+	<string name="loc_cat_key">Location selection key</string>
+
+	<string name="city_pref_title">Dabartinis miestas:</string>
+	<string name="city_pref_key">city pref key</string>
+
+	<string name="unit_pref_title">Esamas matavimo vienetas:</string>
+	<string name="unit_pref_key">unit pref key</string>
+	
+	<string name="language_pref_title">Esama kalba:</string>
+	<string name="language_pref_key">language pref key</string>
+	
+	<string name="loc_pref_title">Esama vieta:</string>
+	<string name="loc_pref_key">location pref key</string>
+	
+	<string name="defaultcity">Vilnius</string>
+	<string name="defaultunit">metric</string>
+	<string name="defaultlanguage">en</string>
+	<string name="wind_dir_N">"Š"</string>
+	<string name="wind_dir_NNE">"ŠŠR"</string>
+	<string name="wind_dir_NE">"ŠR"</string>
+	<string name="wind_dir_ENE">"RŠR"</string>
+	<string name="wind_dir_E">"R"</string>
+	<string name="wind_dir_ESE">"RPR"</string>
+	<string name="wind_dir_SE">"PR"</string>
+	<string name="wind_dir_SSE">"PPR"</string>
+	<string name="wind_dir_S">"P"</string>
+	<string name="wind_dir_SSW">"PPV"</string>
+	<string name="wind_dir_SW">"PV"</string>
+	<string name="wind_dir_WSW">"VPV"</string>
+	<string name="wind_dir_W">"V"</string>
+	<string name="wind_dir_WNW">"VŠV"</string>
+	<string name="wind_dir_NW">"ŠV"</string>
+	<string name="wind_dir_NNW">"ŠŠV"</string>
+	
+</resources>

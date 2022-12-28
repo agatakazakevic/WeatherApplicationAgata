@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">WeatherApplication</string>
+    <string name="action_settings">Настройки</string>
+    <string name="action_refresh">Обновить</string>
+    <string name="descr">Описание:</string>
+    <string name="max_temp">Mакс. Temp:</string>
+    <string name="min_temp">Mин. Temp:</string>
+    <string name="feels_like_temp">Ощущается как:</string>
+    <string name="wind_speed">Скорость:</string>
+    <string name="wind_dir">Направление:</string>
+
+  <!--Settings-->
+  <string name="city_cat_title">Выбор города</string>
+  <string name="city_cat_key">City Selection Key</string>
+  
+  <string name="unit_cat_title">Выбор ед. узмерения</string>
+  <string name="unit_cat_key">Measurement Units Selection Key</string>
+
+  <string name="lang_cat_title">Выбор языка</string>
+  <string name="lang_cat_key">Language Selection Key</string>
+
+  <string name="loc_cat_title">Выбор местоположения</string>
+  <string name="loc_cat_key">Location Selection Key</string>
+
+  <string name="city_pref_title">Город:</string>
+  <string name="city_pref_key">City Pref Key</string>
+
+  <string name="unit_pref_title">Ег. измерения:</string>
+  <string name="unit_pref_key">Unit Pref Key</string>
+  
+  <string name="lang_pref_title">Язык:</string>
+  <string name="lang_pref_key">Lang Pref Key</string>
+  
+  <string name="loc_pref_title">Использовать местоположение:</string>
+  <string name="loc_pref_key">Loc Pref Key</string>
+
+  <string name="default_city">Vilnius</string>
+  <string name="default_unit">metric</string>
+  <string name="default_lang">en</string>
+
+
+  <string name="wind_dir_N">"С"</string>
+  <string name="wind_dir_NNE">"ССЗ"</string>
+  <string name="wind_dir_NE">"СЗ"</string>
+  <string name="wind_dir_ENE">"ЗСЗ"</string>
+  <string name="wind_dir_E">"З"</string>
+  <string name="wind_dir_ESE">"ЗЮЗ"</string>
+  <string name="wind_dir_SE">"ЗЮ"</string>
+  <string name="wind_dir_SSE">"ЮЮЗ"</string>
+  <string name="wind_dir_S">"Ю"</string>
+  <string name="wind_dir_SSW">"ЮЮВ"</string>
+  <string name="wind_dir_SW">"ЮВ"</string>
+  <string name="wind_dir_WSW">"ВЮВ"</string>
+  <string name="wind_dir_W">"В"</string>
+  <string name="wind_dir_WNW">"ВСВ"</string>
+  <string name="wind_dir_NW">"СВ"</string>
+  <string name="wind_dir_NNW">"ССВ"</string>
+  
+  
+</resources>

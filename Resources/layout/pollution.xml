@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+     android:background="@drawable/weather"
+    >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/poluttiondescr"
+            style="@style/textBig"
+            android:gravity="left"
+        android:layout_marginTop="5dp"
+            android:textColor="@android:color/white"
+            android:textSize="20sp"
+            android:textStyle="bold"
+      
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/txtpolutionco"
+            style="@style/textBig"
+            android:gravity="left"
+        android:layout_marginTop="5dp"
+            android:textColor="@android:color/white"
+            android:textSize="20sp"
+       android:layout_below="@id/poluttiondescr"
+            android:textStyle="bold"
+      
+            />
+     
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/txtpolutionno"
+            style="@style/textBig"
+         android:layout_marginTop="5dp"
+            android:gravity="left"
+            android:textColor="@android:color/white"
+            android:textSize="20sp"
+            android:textStyle="bold"
+          android:layout_below="@id/txtpolutionco"
+          />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/txtpolutionno2"
+         android:layout_marginTop="5dp"
+            style="@style/textBig"
+            android:gravity="left"
+            android:textColor="@android:color/white"
+            android:textSize="20sp"
+            android:textStyle="bold"
+          android:layout_below="@id/txtpolutionno"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/txtpolutionso2"
+         android:layout_marginTop="5dp"
+            style="@style/textBig"
+            android:gravity="left"
+            android:textColor="@android:color/white"
+            android:textSize="20sp"
+         android:layout_below="@id/txtpolutionno2"
+            android:textStyle="bold"
+            />
+  </RelativeLayout>
+

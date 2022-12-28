@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">weatherapplication</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="description">Description</string>
+    <string name="max_temp">Max_temp</string>
+    <string name="min_temp">Min_temp</string>
+    <string name="feelslike_temp">feelslike_temp</string>
+    <string name="wind_speed">Wind_speed</string>
+    <string name="wind_d">Windir</string>
+
+	<!--settings-->
+	<string name="city_cat_title">City selection</string>
+	<string name="city_cat_key">City selection key</string>
+	
+	<string name="unit_cat_title">Measurement Units selection</string>
+	<string name="unit_cat_key">Measurement Units selection key</string>
+	
+	<string name="language_cat_title">Language selection</string>
+	<string name="language_cat_key">Language selection key</string>
+	
+	<string name="loc_cat_title">Location selection</string>
+	<string name="loc_cat_key">Location selection key</string>
+
+	<string name="city_pref_title">Current city:</string>
+	<string name="city_pref_key">city pref key</string>
+
+	<string name="unit_pref_title">Current measurement unit:</string>
+	<string name="unit_pref_key">unit pref key</string>
+	
+	<string name="language_pref_title">Current Language:</string>
+	<string name="language_pref_key">language pref key</string>
+	
+	<string name="loc_pref_title">Current Location:</string>
+	<string name="loc_pref_key">location pref key</string>
+	
+	<string name="defaultcity">Vilnius</string>
+	<string name="defaultunit">metric</string>
+	<string name="defaultlanguage">en</string>
+	<string name="wind_dir_N">"N"</string>
+	<string name="wind_dir_NNE">"NNE"</string>
+	<string name="wind_dir_NE">"NE"</string>
+	<string name="wind_dir_ENE">"ENE"</string>
+	<string name="wind_dir_E">"E"</string>
+	<string name="wind_dir_ESE">"ESE"</string>
+	<string name="wind_dir_SE">"SE"</string>
+	<string name="wind_dir_SSE">"SSE"</string>
+	<string name="wind_dir_S">"S"</string>
+	<string name="wind_dir_SSW">"SSW"</string>
+	<string name="wind_dir_SW">"SW"</string>
+	<string name="wind_dir_WSW">"WSW"</string>
+	<string name="wind_dir_W">"W"</string>
+	<string name="wind_dir_WNW">"WNW"</string>
+	<string name="wind_dir_NW">"NW"</string>
+	<string name="wind_dir_NNW">"NNW"</string>
+	
+</resources>

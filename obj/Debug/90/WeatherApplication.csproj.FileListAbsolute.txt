@@ -1,0 +1,74 @@
+C:\Users\Agata\Desktop\nkkmgalutin ė\WeatherApplication\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\Users\Agata\Desktop\nkkmgalutin ė\WeatherApplication\obj\Debug\90\build.props
+C:\Users\Agata\Desktop\nkkmgalutin ė\WeatherApplication\obj\Debug\90\adb.props
+C:\Users\Agata\Desktop\nkkmgalutin ė\WeatherApplication\obj\Debug\90\WeatherApplication.csprojAssemblyReference.cache
+C:\Users\Agata\Desktop\nkkmgalutin ė\WeatherApplication\obj\Debug\90\_VerifyXamarinAndroidSupportVersions.stamp
+C:\Users\Agata\Desktop\nkkmgalutin ė\WeatherApplication\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\Agata\Desktop\nkkmgalutin ė\WeatherApplication\obj\Debug\90\res.flag
+C:\Users\Agata\Desktop\nkkmgalutin ė\WeatherApplication\obj\Debug\90\stamp\_AndroidXJetifyEmbeddedFiles.stamp
+C:\Users\Agata\Desktop\nkkmgalutin ė\WeatherApplication\obj\Debug\90\androidx\_AndroidXJetifyEmbeddedFiles.jetify
+C:\Users\Agata\Desktop\nkkmgalutin ė\WeatherApplication\obj\Debug\90\lp\0\jl\files.cache
+C:\Users\Agata\Desktop\nkkmgalutin ė\WeatherApplication\obj\Debug\90\lp\50\jl\files.cache
+C:\Users\Agata\Desktop\nkkmgalutin ė\WeatherApplication\obj\Debug\90\lp\56\jl\files.cache
+C:\Users\Agata\Desktop\nkkmgalutin ė\WeatherApplication\obj\Debug\90\lp\57\jl\files.cache
+C:\Users\Agata\Desktop\nkkmgalutin ė\WeatherApplication\obj\Debug\90\lp\58\jl\files.cache
+C:\Users\Agata\Desktop\nkkmgalutin ė\WeatherApplication\obj\Debug\90\lp\59\jl\files.cache
+C:\Users\Agata\Desktop\nkkmgalutin ė\WeatherApplication\obj\Debug\90\lp\62\jl\files.cache
+C:\Users\Agata\Desktop\nkkmgalutin ė\WeatherApplication\obj\Debug\90\lp\63\jl\files.cache
+C:\Users\Agata\Desktop\nkkmgalutin ė\WeatherApplication\obj\Debug\90\lp\66\jl\files.cache
+C:\Users\Agata\Desktop\nkkmgalutin ė\WeatherApplication\obj\Debug\90\lp\67\jl\files.cache
+C:\Users\Agata\Desktop\nkkmgalutin ė\WeatherApplication\obj\Debug\90\lp\73\jl\files.cache
+C:\Users\Agata\Desktop\nkkmgalutin ė\WeatherApplication\obj\Debug\90\lp\74\jl\files.cache
+C:\Users\Agata\Desktop\nkkmgalutin ė\WeatherApplication\obj\Debug\90\lp\75\jl\files.cache
+C:\Users\Agata\Desktop\nkkmgalutin ė\WeatherApplication\obj\Debug\90\lp\79\jl\files.cache
+C:\Users\Agata\Desktop\nkkmgalutin ė\WeatherApplication\obj\Debug\90\lp\85\jl\files.cache
+C:\Users\Agata\Desktop\nkkmgalutin ė\WeatherApplication\obj\Debug\90\lp\87\jl\files.cache
+C:\Users\Agata\Desktop\nkkmgalutin ė\WeatherApplication\obj\Debug\90\lp\88\jl\files.cache
+C:\Users\Agata\Desktop\nkkmgalutin ė\WeatherApplication\obj\Debug\90\lp\89\jl\files.cache
+C:\Users\Agata\Desktop\nkkmgalutin ė\WeatherApplication\obj\Debug\90\lp\90\jl\files.cache
+C:\Users\Agata\Desktop\nkkmgalutin ė\WeatherApplication\obj\Debug\90\lp\91\jl\files.cache
+C:\Users\Agata\Desktop\nkkmgalutin ė\WeatherApplication\obj\Debug\90\lp\92\jl\files.cache
+C:\Users\Agata\Desktop\nkkmgalutin ė\WeatherApplication\obj\Debug\90\lp\93\jl\files.cache
+C:\Users\Agata\Desktop\nkkmgalutin ė\WeatherApplication\obj\Debug\90\lp\95\jl\files.cache
+C:\Users\Agata\Desktop\nkkmgalutin ė\WeatherApplication\obj\Debug\90\lp\101\jl\files.cache
+C:\Users\Agata\Desktop\nkkmgalutin ė\WeatherApplication\obj\Debug\90\lp\102\jl\files.cache
+C:\Users\Agata\Desktop\nkkmgalutin ė\WeatherApplication\obj\Debug\90\lp\104\jl\files.cache
+C:\Users\Agata\Desktop\nkkmgalutin ė\WeatherApplication\obj\Debug\90\lp\106\jl\files.cache
+C:\Users\Agata\Desktop\nkkmgalutin ė\WeatherApplication\obj\Debug\90\lp\109\jl\files.cache
+C:\Users\Agata\Desktop\nkkm projektai\nkkmgalutin ė\WeatherApplication\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\Users\Agata\Desktop\nkkm projektai\nkkmgalutin ė\WeatherApplication\obj\Debug\90\build.props
+C:\Users\Agata\Desktop\nkkm projektai\nkkmgalutin ė\WeatherApplication\obj\Debug\90\adb.props
+C:\Users\Agata\Desktop\nkkm projektai\nkkmgalutin ė\WeatherApplication\obj\Debug\90\WeatherApplication.csproj.AssemblyReference.cache
+C:\Users\Agata\Desktop\nkkm projektai\nkkmgalutin ė\WeatherApplication\obj\Debug\90\_VerifyXamarinAndroidSupportVersions.stamp
+C:\Users\Agata\Desktop\nkkm projektai\nkkmgalutin ė\WeatherApplication\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\Agata\Desktop\nkkm projektai\nkkmgalutin ė\WeatherApplication\obj\Debug\90\res.flag
+C:\Users\Agata\Desktop\nkkm projektai\nkkmgalutin ė\WeatherApplication\obj\Debug\90\stamp\_AndroidXJetifyEmbeddedFiles.stamp
+C:\Users\Agata\Desktop\nkkm projektai\nkkmgalutin ė\WeatherApplication\obj\Debug\90\androidx\_AndroidXJetifyEmbeddedFiles.jetify
+C:\Users\Agata\Desktop\nkkm projektai\nkkmgalutin ė\WeatherApplication\obj\Debug\90\lp\0\jl\files.cache
+C:\Users\Agata\Desktop\nkkm projektai\nkkmgalutin ė\WeatherApplication\obj\Debug\90\lp\50\jl\files.cache
+C:\Users\Agata\Desktop\nkkm projektai\nkkmgalutin ė\WeatherApplication\obj\Debug\90\lp\56\jl\files.cache
+C:\Users\Agata\Desktop\nkkm projektai\nkkmgalutin ė\WeatherApplication\obj\Debug\90\lp\57\jl\files.cache
+C:\Users\Agata\Desktop\nkkm projektai\nkkmgalutin ė\WeatherApplication\obj\Debug\90\lp\58\jl\files.cache
+C:\Users\Agata\Desktop\nkkm projektai\nkkmgalutin ė\WeatherApplication\obj\Debug\90\lp\59\jl\files.cache
+C:\Users\Agata\Desktop\nkkm projektai\nkkmgalutin ė\WeatherApplication\obj\Debug\90\lp\62\jl\files.cache
+C:\Users\Agata\Desktop\nkkm projektai\nkkmgalutin ė\WeatherApplication\obj\Debug\90\lp\63\jl\files.cache
+C:\Users\Agata\Desktop\nkkm projektai\nkkmgalutin ė\WeatherApplication\obj\Debug\90\lp\66\jl\files.cache
+C:\Users\Agata\Desktop\nkkm projektai\nkkmgalutin ė\WeatherApplication\obj\Debug\90\lp\67\jl\files.cache
+C:\Users\Agata\Desktop\nkkm projektai\nkkmgalutin ė\WeatherApplication\obj\Debug\90\lp\73\jl\files.cache
+C:\Users\Agata\Desktop\nkkm projektai\nkkmgalutin ė\WeatherApplication\obj\Debug\90\lp\74\jl\files.cache
+C:\Users\Agata\Desktop\nkkm projektai\nkkmgalutin ė\WeatherApplication\obj\Debug\90\lp\75\jl\files.cache
+C:\Users\Agata\Desktop\nkkm projektai\nkkmgalutin ė\WeatherApplication\obj\Debug\90\lp\79\jl\files.cache
+C:\Users\Agata\Desktop\nkkm projektai\nkkmgalutin ė\WeatherApplication\obj\Debug\90\lp\85\jl\files.cache
+C:\Users\Agata\Desktop\nkkm projektai\nkkmgalutin ė\WeatherApplication\obj\Debug\90\lp\87\jl\files.cache
+C:\Users\Agata\Desktop\nkkm projektai\nkkmgalutin ė\WeatherApplication\obj\Debug\90\lp\88\jl\files.cache
+C:\Users\Agata\Desktop\nkkm projektai\nkkmgalutin ė\WeatherApplication\obj\Debug\90\lp\89\jl\files.cache
+C:\Users\Agata\Desktop\nkkm projektai\nkkmgalutin ė\WeatherApplication\obj\Debug\90\lp\90\jl\files.cache
+C:\Users\Agata\Desktop\nkkm projektai\nkkmgalutin ė\WeatherApplication\obj\Debug\90\lp\91\jl\files.cache
+C:\Users\Agata\Desktop\nkkm projektai\nkkmgalutin ė\WeatherApplication\obj\Debug\90\lp\92\jl\files.cache
+C:\Users\Agata\Desktop\nkkm projektai\nkkmgalutin ė\WeatherApplication\obj\Debug\90\lp\93\jl\files.cache
+C:\Users\Agata\Desktop\nkkm projektai\nkkmgalutin ė\WeatherApplication\obj\Debug\90\lp\95\jl\files.cache
+C:\Users\Agata\Desktop\nkkm projektai\nkkmgalutin ė\WeatherApplication\obj\Debug\90\lp\101\jl\files.cache
+C:\Users\Agata\Desktop\nkkm projektai\nkkmgalutin ė\WeatherApplication\obj\Debug\90\lp\102\jl\files.cache
+C:\Users\Agata\Desktop\nkkm projektai\nkkmgalutin ė\WeatherApplication\obj\Debug\90\lp\104\jl\files.cache
+C:\Users\Agata\Desktop\nkkm projektai\nkkmgalutin ė\WeatherApplication\obj\Debug\90\lp\106\jl\files.cache
+C:\Users\Agata\Desktop\nkkm projektai\nkkmgalutin ė\WeatherApplication\obj\Debug\90\lp\109\jl\files.cache
